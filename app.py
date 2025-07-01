@@ -5,12 +5,13 @@ app = Flask(__name__)
 app.secret_key = 'secretkey'
 
 def get_db_connection():
-    return mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password="",
-        database="flask_app"
-    )
+   conn = mysql.connector.connect(
+       host="db4free.net",
+       user="shubham123",
+       password="shubham123",
+       database="flaskapp"
+       )
+
 
 @app.route('/')
 def login():
