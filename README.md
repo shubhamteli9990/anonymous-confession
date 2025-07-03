@@ -34,7 +34,7 @@ Follow these steps to set up the project on your local system:
 ### 📥 1. Clone or Download the Project
 
 ```bash
-git clone https://github.com/your-username/anonymous-messaging-app.git
+git clone [https://github.com/your-username/anonymous-messaging-app.git](https://github.com/shubhamteli9990/anonymous-confession.git)
 
 🗃️ 2. Setup Database in XAMPP
 1.Open XAMPP and start Apache and MySQL.
