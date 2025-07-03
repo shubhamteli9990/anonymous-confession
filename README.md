@@ -57,7 +57,17 @@ anonymous-messaging-app/database/anon_msg_db.sql
   Open the above link in your browser.
 
 📸 Screenshots
+1. login page 
+![login](https://github.com/user-attachments/assets/1bd8648b-f652-4211-9e38-ba30d96cd67e)
 
+2. signup page 
+![signup](https://github.com/user-attachments/assets/a7fe73d2-22ad-4864-95e0-0882d9166594)
+
+3. user amit page
+![amit](https://github.com/user-attachments/assets/b28019ea-e581-4dba-b83a-040d4a6a6d10)
+
+4. user aman page
+![aman](https://github.com/user-attachments/assets/a32bbd1d-1031-4df3-bcf8-c7ac23a28169)
 
 👨‍💻 Features
 🔒 100% Anonymous Posting
