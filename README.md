@@ -59,7 +59,6 @@ anonymous-messaging-app/database/anon_msg_db.sql
 📸 Screenshots
 1. login page
 ![login](screenshots/login.png)
-![login](https://github.com/user-attachments/assets/1bd8648b-f652-4211-9e38-ba30d96cd67e)
 
 2. signup page 
 ![signup](https://github.com/user-attachments/assets/a7fe73d2-22ad-4864-95e0-0882d9166594)
