@@ -59,6 +59,13 @@ anonymous-messaging-app/database/anon_msg_db.sql
 📸 Screenshots
 
 
+👨‍💻 Features
+🔒 100% Anonymous Posting
+✉️ Realtime Message & Suggestion System
+🧠 Helpful Community Support
+👤 User Authentication (Login/Signup)
+🌐 Works in Any Modern Browser
+
 
 📂 Folder Structure
 anonymous-messaging-app/
