@@ -57,14 +57,8 @@ anonymous-messaging-app/database/anon_msg_db.sql
   Open the above link in your browser.
 
 📸 Screenshots
-(Add screenshots of homepage, message posting page, and suggestion screen in a screenshots/ folder)
 
-👨‍💻 Features
-🔒 100% Anonymous Posting
-✉️ Realtime Message & Suggestion System
-🧠 Helpful Community Support
-👤 User Authentication (Login/Signup)
-🌐 Works in Any Modern Browser
+
 
 📂 Folder Structure
 anonymous-messaging-app/
@@ -75,3 +69,9 @@ anonymous-messaging-app/
 ├── database/             # SQL file for MySQL DB
 ├── README.md             # Project Documentation
 └── requirements.txt      # Optional: Flask dependencies
+
+
+🙋 Developed by
+Shubham Teli
+📧 slmaratha9990@gmail.com
+🌐 LinkedIn
