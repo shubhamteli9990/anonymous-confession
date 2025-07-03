@@ -6,9 +6,9 @@ app.secret_key = 'secretkey'
 
 def get_db_connection():
    conn = mysql.connector.connect(
-       host="db4free.net",
-       user="shubham123",
-       password="shubh123",
+       host="sql12.freesqldatabase.com",
+       user="sql12788124",
+       password="PAu9diw6NJ",
        database="flaskapp"
        )
 
