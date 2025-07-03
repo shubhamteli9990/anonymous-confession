@@ -9,7 +9,7 @@ def get_db_connection():
        host="sql12.freesqldatabase.com",
        user="sql12788124",
        password="PAu9diw6NJ",
-       database="flaskapp"
+       database="sql12788124"
        )
 
 
