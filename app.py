@@ -5,13 +5,13 @@ app = Flask(__name__)
 app.secret_key = 'secretkey'
 
 def get_db_connection():
-   conn = mysql.connector.connect(
-       host="sql12.freesqldatabase.com",
-       user="sql12788124",
-       password="PAu9diw6NJ",
-       database="sql12788124",
-       port="3306"
-       )
+conn = mysql.connector.connect(
+       host=os.environ.get("DB_HOST"),
+       user=os.environ.get("DB_USER"),
+       password=os.environ.get("DB_PASSWORD"),
+       database=os.environ.get("DB_NAME"),
+       port=os.environ.get("DB_PORT", 3306)  # Optional default port
+   )
 
 
 @app.route('/')
