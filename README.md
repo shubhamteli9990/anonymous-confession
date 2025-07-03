@@ -58,8 +58,8 @@ anonymous-messaging-app/database/anon_msg_db.sql
 
 📸 Screenshots
 1. login page
-![Image](https://github.com/user-attachments/assets/eebe755e-2bf6-4ca9-a4b0-99633dc4d1c2)
-
+![Image](https://github.com/shubhamteli9990/anonymous-confession/blob/5ee26ec16e9d45de3308cc8180511dee59db3a0a/screenshots/login.png)
+https://github.com/shubhamteli9990/anonymous-confession/blob/5ee26ec16e9d45de3308cc8180511dee59db3a0a/screenshots/login.png
 2. signup page 
 ![signup](https://github.com/user-attachments/assets/a7fe73d2-22ad-4864-95e0-0882d9166594)
 
